@@ -1,0 +1,1 @@
+# Solutions-of-Hacker-Rank-problem-in-python
